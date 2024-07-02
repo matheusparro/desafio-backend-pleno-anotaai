@@ -23,3 +23,6 @@ Este projeto é uma API desenvolvida em Java com Spring para gerenciar um sistem
 - **Deletar Produto ou Categoria**: Permite deletar um produto ou categoria do catálogo.
 - **Notificações de Mudança no Catálogo**: Publica mudanças no catálogo no tópico "catalog-emit" do AWS SQS.
 - **Consumidor de Mudanças no Catálogo**: Escuta mensagens de mudanças no catálogo, busca o catálogo do proprietário no banco de dados, gera o JSON do catálogo e publica no bucket do AWS S3.
+
+## Link do desafio
+https://github.com/githubanotaai/new-test-backend-nodejs
