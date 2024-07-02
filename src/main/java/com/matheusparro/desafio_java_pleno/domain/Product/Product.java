@@ -1,6 +1,4 @@
 package com.matheusparro.desafio_java_pleno.domain.Product;
-
-import com.matheusparro.desafio_java_pleno.domain.Category.Category;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.Generated;
